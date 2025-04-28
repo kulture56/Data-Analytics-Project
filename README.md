@@ -1,4 +1,4 @@
-# Data Analytics Project Repository ![PythonPoweredGIF](https://github.com/user-attachments/assets/f8339ff3-1797-4f70-9d07-cee3d2d7418d)
+# Data Analytics Project Repository 
 
 ![image](https://github.com/user-attachments/assets/d5edfa64-8d3a-4e9c-95ed-5288db08aef7)
 ## Welcome to the Data Analytics Project Repository! 🚀
@@ -21,7 +21,8 @@
 * Supporting files (charts, reports, etc.)
 
 # **📊 Technologies and Tools**
-**Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
+**Python** ![PythonPoweredGIF](https://github.com/user-attachments/assets/f8339ff3-1797-4f70-9d07-cee3d2d7418d) 
+(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
 **Excel** (Pivot Tables, Power Query, Dashboards, Data Analysis Toolkit)
 **SQL** (Coming soon)
 **Other tools:** Git, GitHub
