@@ -13,3 +13,10 @@
 * **Reports/** — Written summaries, findings, and insights from each project.
 * **Assets/** — Supporting files such as datasets, images, and presentations.
 
+# 📂 Project Structure
+**Each project is organized into its own folder and may include:**
+* A description or README.md inside the folder
+* Python notebooks (.ipynb) or scripts (.py)
+* Datasets (when allowed) or dataset links
+* Supporting files (charts, reports, etc.)
+
