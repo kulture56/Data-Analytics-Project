@@ -41,4 +41,8 @@
 * Build a strong foundation for more advanced data science projects.
 * Develop storytelling skills through data.
 
+# **⭐ Acknowledgments**
+* Thanks for stopping by! Stay tuned as more projects are added over time.
+* "Data is not just numbers; it’s the story behind the numbers."
+
 
