@@ -22,7 +22,7 @@
 
 # **📊 Technologies and Tools**
 * **Python:** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
-* **Excel:** (P ivot Tables, Power Query, Dashboards, Data Analysis Toolkit)
+* **Excel:** (Pivot Tables, Dashboards, Data Analysis Toolkit)
 * **SQL:** (Coming soon)
 * **Other tools:** Git, GitHub
 
