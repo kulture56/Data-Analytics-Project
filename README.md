@@ -22,6 +22,7 @@
 
 # **📊 Technologies and Tools**
 **Python**![image](https://github.com/user-attachments/assets/69d92b3e-32e1-4c43-a8ec-5016d66ecf1b)
+![image](https://github.com/user-attachments/assets/391c6e9d-9515-442c-827a-92cdca288913)
 
  ![PythonPoweredGIF](https://github.com/user-attachments/assets/f8339ff3-1797-4f70-9d07-cee3d2d7418d) 
 (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
