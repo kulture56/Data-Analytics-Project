@@ -20,3 +20,9 @@
 * Datasets (when allowed) or dataset links
 * Supporting files (charts, reports, etc.)
 
+# **📊 Technologies and Tools**
+**Python** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
+**Excel** (Pivot Tables, Power Query, Dashboards, Data Analysis Toolkit)
+**SQL** (Coming soon)
+**Other tools:** Git, GitHub
+
