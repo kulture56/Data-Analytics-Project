@@ -6,3 +6,10 @@
 
 **This repository is a growing collection of data analytics projects showcasing the use of Python, its popular data libraries, and Excel to explore, clean, analyze, and visualize data across different domains. Each project is designed to strengthen analytical thinking, technical proficiency, and storytelling with data.**
 
+# 📂 Repository Structure
+* **Python Projects/** — Projects using Python (with libraries like Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, etc.).
+* **Excel Projects/** — Projects performed using Microsoft Excel for data cleaning, analysis, visualization, and dashboard creation.
+* **SQL Projects/** — Projects using SQL for data querying, exploration, and reporting.
+* **Reports/** — Written summaries, findings, and insights from each project.
+* **Assets/** — Supporting files such as datasets, images, and presentations.
+
