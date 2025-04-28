@@ -1,69 +1,47 @@
-🛒 BLINKIT Dashboard Analysis
-View the Project Notebook 📓
+## 🛒 BLINKIT Dashboard Analysis
 
-📊 Project Overview
+
+# 📊 Project Overview
 This project is a Data Analytics and Visualization of BLINKIT grocery store sales.
 It highlights sales trends, outlet performance, item types, fat content sales, and more — giving a complete 360° view of the business.
 
-The dashboard was built to provide actionable insights into:
+**The dashboard was built to provide actionable insights into:**
+* Total Sales
+* Average Sales
+* Number of Items Sold
+* Average Customer Ratings
+* Outlet Type and Location Performance
+* Item Category Performance
+* Sales Distribution based on Fat Content (Low Fat vs. Regular)
+* Trends over Outlet Establishment Years
 
-Total Sales
+# 🛠️ Tools and Libraries Used
+& Python
+* pandas
+* matplotlib
+* seaborn
+* Excel
+* Power BI / Excel (for dashboard formatting and visualization)
+* Jupyter Notebook
 
-Average Sales
+# 📈 Key Insights
+* Total Sales reached $1.20M across all outlets.
+* Average Sales per item stood at 141.0.
+* A total of 8523 items were sold, with an average rating of 3.9.
+* Supermarket Type1 generated the highest sales ($787,550).
+* Tier 3 outlet locations contributed the most sales among all outlet tiers.
+* Low Fat products outsold Regular Fat products.
+* Fruits and Vegetables were the leading item type in total sales.
+* The peak establishment year for high sales was 2017.
 
-Number of Items Sold
-
-Average Customer Ratings
-
-Outlet Type and Location Performance
-
-Item Category Performance
-
-Sales Distribution based on Fat Content (Low Fat vs. Regular)
-
-Trends over Outlet Establishment Years
-
-🛠️ Tools and Libraries Used
-Python
-
-pandas
-
-matplotlib
-
-seaborn
-
-Power BI / Excel (for dashboard formatting and visualization)
-
-Jupyter Notebook
-
-📈 Key Insights
-Total Sales reached $1.20M across all outlets.
-
-Average Sales per item stood at 141.0.
-
-A total of 8523 items were sold, with an average rating of 3.9.
-
-Supermarket Type1 generated the highest sales ($787,550).
-
-Tier 3 outlet locations contributed the most sales among all outlet tiers.
-
-Low Fat products outsold Regular Fat products.
-
-Fruits and Vegetables were the leading item type in total sales.
-
-The peak establishment year for high sales was 2017.
-
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 (You can add your dashboard screenshot to GitHub and link it properly above!)
 
-🚀 How to Run
-Clone the repository.
-
-Open the Jupyter Notebook (BLINKIT Analysis.ipynb).
-
-Ensure you have all necessary libraries installed (pandas, matplotlib, seaborn).
-
-Run all cells to reproduce the analysis.
+# 🚀 How to Run
+* Clone the repository.
+* Open the Jupyter Notebook (BLINKIT Analysis.ipynb).
+* Ensure you have all necessary libraries installed (pandas, matplotlib, seaborn).
+* Run all cells to reproduce the analysis.
 
 
