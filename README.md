@@ -35,4 +35,10 @@
 * Navigate to the project folder you're interested in.
 * Follow the instructions in the project's README.md or Jupyter Notebook.
 
+# **📚 Learning Goals**
+* Strengthen data analysis and visualization skills.
+* Apply end-to-end data analytics workflows.
+* Build a strong foundation for more advanced data science projects.
+* Develop storytelling skills through data.
+
 
