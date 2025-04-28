@@ -21,9 +21,8 @@
 * Supporting files (charts, reports, etc.)
 
 # **📊 Technologies and Tools**
-**Python**![image](https://github.com/user-attachments/assets/69d92b3e-32e1-4c43-a8ec-5016d66ecf1b)
-(Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
-**Excel** (Pivot Tables, Power Query, Dashboards, Data Analysis Toolkit)
-**SQL** (Coming soon)
+**Python:** (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebooks)
+**Excel:** (P ivot Tables, Power Query, Dashboards, Data Analysis Toolkit)
+**SQL:** (Coming soon)
 **Other tools:** Git, GitHub
 
