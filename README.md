@@ -26,14 +26,13 @@
 * **SQL:** (Coming soon)
 * **Other tools:** Git, GitHub
 
-**🚀 Getting Started**
+# **🚀 Getting Started**
 * Clone this repository:
 * bash
 * Copy
 * Edit
 * git clone https://github.com/kulture56/Data-Analytics-Project.git
 * Navigate to the project folder you're interested in.
-
-Follow the instructions in the project's README.md or Jupyter Notebook.
+* Follow the instructions in the project's README.md or Jupyter Notebook.
 
 
