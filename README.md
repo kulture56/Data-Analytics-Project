@@ -1,4 +1,5 @@
-# Data Analytics Project Repository ![image](https://github.com/user-attachments/assets/d5edfa64-8d3a-4e9c-95ed-5288db08aef7)
+# Data Analytics Project Repository
+![image](https://github.com/user-attachments/assets/d5edfa64-8d3a-4e9c-95ed-5288db08aef7)
 ## Welcome to the Data Analytics Project Repository! 🚀
 
 
